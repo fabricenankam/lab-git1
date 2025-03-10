@@ -1,3 +1,4 @@
 Laboratorio GIT
 nuova riga
 close issue
+collegamento commit e issue 
